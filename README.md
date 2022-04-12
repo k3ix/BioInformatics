@@ -1,1 +1,1 @@
-# BioInforamtics_scripts
+# BioInforamtics scripts
